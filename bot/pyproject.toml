@@ -2,7 +2,7 @@
 name = "telegrambot-template-docker"
 version = "0.1.0"
 description = ""
-authors = ["Akmalov <artur@akmalov.com>"]
+authors = ["Ivanov <@.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
